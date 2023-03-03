@@ -8,11 +8,6 @@ public class Input {
         // array of primitives
         int[] arr = new int[5];
         arr[0] = 23;
-        arr[1] = 45;
-        arr[2] = 233;
-        arr[3] = 543;
-        arr[4] = 3;
-        // [23, 45, 233, 543, 3]
         System.out.println(arr[3]);
 
         // input using for loops
