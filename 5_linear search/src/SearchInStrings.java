@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class SearchInStrings {
     public static void main(String[] args) {
-        String name = "Kunal";
+        String name = "Kartik";
         char target = 'u';
 //        System.out.println(search(name, target));
 
